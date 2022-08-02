@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "99 Other/Chicken vs Egg Paradox.md",
+            "file": "01 Topics/Embodied Carbon Analysis/Embodied Carbon Analysis.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 Other/Chicken vs Egg Paradox.md",
+                "file": "01 Topics/Embodied Carbon Analysis/Embodied Carbon Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 Other/Chicken vs Egg Paradox.md",
+                "file": "01 Topics/Embodied Carbon Analysis/Embodied Carbon Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 Other/Chicken vs Egg Paradox.md"
+                "file": "01 Topics/Embodied Carbon Analysis/Embodied Carbon Analysis.md"
               }
             }
           }
@@ -130,10 +130,10 @@
   },
   "active": "5b607d984327d862",
   "lastOpenFiles": [
+    "README.md",
     "01 Topics/Embodied Carbon Analysis/Embodied Carbon Analysis.md",
-    "99 Other/Chicken vs Egg Paradox.md",
-    "99 Other/Architects Declare.md",
     "Home.md",
-    "README.md"
+    "99 Other/Chicken vs Egg Paradox.md",
+    "99 Other/Architects Declare.md"
   ]
 }
