@@ -1,4 +1,7 @@
 {
   "newLinkFormat": "shortest",
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "99 Other",
+  "alwaysUpdateLinks": true
 }
